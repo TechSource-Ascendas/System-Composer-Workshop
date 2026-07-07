@@ -8,6 +8,10 @@ The materials are organized as hands-on live scripts, MATLAB helper scripts, Sys
 
 ```text
 System-Composer-Workshop/
+|-- Materials/
+|   |-- SystemComposer_Workshop.pdf
+|   `-- matlab.pdf
+|   `-- simulink.pdf
 |-- Matlab-Simulink/
 |   |-- matlab.mlx
 |   `-- simulink.mlx
